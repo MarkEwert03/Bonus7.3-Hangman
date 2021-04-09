@@ -23,7 +23,7 @@ public class HangmanGame {
         } else {
             System.out.println("You lose! The word was " + puzzle.getWord());
         }
-        
+
     }
 
     public static void clearScreen() {
